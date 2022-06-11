@@ -1,0 +1,52 @@
+ *{
+
+    margin: 0;
+    padding: 0;
+    font-family: 'Open sans' , sans-serif;
+ }
+
+ ul{
+      list-style: nome;
+      margin: 0;
+      padding: 0;
+ }
+
+ ul li a{ 
+     text-decoration: nome;
+
+ }
+ 
+  .flex-container{
+      display: flex;
+      max-width: 992px;
+      margin:auto;
+      width: 100%;
+      justify-content: space-between;
+  }
+  
+  header{
+    background-color:aliceblue
+    height: 100px;
+    display: flex;
+    align-items: center;
+    color:
+
+  }
+
+  list-items li a {
+      display: flex;
+      max-width: 260px;
+      width: 100%;
+      justify-content: space-between;
+
+  }
+  
+  list-items li a {
+  color:aliceblue;
+  }
+
+
+  header .menu{
+  justify-content: space-between;
+  
+}
